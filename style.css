@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: navajowhite;
+    background-image: linear-gradient(60deg, #618358 0%,#485563 100%);
+    font-size: 20px;
+}
+label {
+    font-size: 40px;
+}
